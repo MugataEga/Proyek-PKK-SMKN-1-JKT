@@ -12,6 +12,25 @@
 
 ---
 
+## TABEL KONTRIBUSI
+
+| Nama Anggota | Deskripsi Kontribusi | Persentase Kontribusi |
+|--------------|----------------------|----------------------|
+| [Nama Anggota 1] | Perancangan EER Diagram, Mapping ke Relational Schema, Dokumentasi BAB 1-2 | [%] |
+| [Nama Anggota 2] | Implementasi DDL (CREATE TABLE), Implementasi DML (INSERT DATA), Dokumentasi BAB 3-4 | [%] |
+| [Nama Anggota 3] | Pembuatan Query SQL (50+ query), Testing dan Verifikasi, Dokumentasi BAB 5-6 | [%] |
+| [Nama Anggota 4] | Review dan Revisi Keseluruhan, Formatting Laporan, Penyusunan Kesimpulan | [%] |
+
+**Catatan:** Pastikan total persentase kontribusi semua anggota = 100%
+
+**Jika dikerjakan individu, isi seperti ini:**
+
+| Nama Anggota | Deskripsi Kontribusi | Persentase Kontribusi |
+|--------------|----------------------|----------------------|
+| [Nama Anda] | Perancangan EER Diagram, Mapping ke Relational Schema, Implementasi DDL & DML, Pembuatan Query SQL, Dokumentasi Lengkap (BAB 1-6) | 100% |
+
+---
+
 
 ## DAFTAR ISI
 
