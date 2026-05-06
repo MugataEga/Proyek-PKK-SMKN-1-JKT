@@ -14,20 +14,26 @@
 
 ## TABEL KONTRIBUSI
 
-| Nama Anggota | Deskripsi Kontribusi | Persentase Kontribusi |
-|--------------|----------------------|----------------------|
-| [Nama Anggota 1] | Perancangan EER Diagram, Mapping ke Relational Schema, Dokumentasi BAB 1-2 | [%] |
-| [Nama Anggota 2] | Implementasi DDL (CREATE TABLE), Implementasi DML (INSERT DATA), Dokumentasi BAB 3-4 | [%] |
-| [Nama Anggota 3] | Pembuatan Query SQL (50+ query), Testing dan Verifikasi, Dokumentasi BAB 5-6 | [%] |
-| [Nama Anggota 4] | Review dan Revisi Keseluruhan, Formatting Laporan, Penyusunan Kesimpulan | [%] |
+| NO | KOMPONEN | BOBOT | N. PEKERJA | PEKERJA | PERSENTASE MASING-MASING |
+|----|----------|-------|------------|---------|--------------------------|
+| 1 | EERD | 20 | 2 | Ega Sahputra, Mukgot | 10% (Ega), 10% (Mukgot) |
+| 2 | RELATIONSHIP SCHEMA MAPPING | 20 | 1 | Riyadh | 20% |
+| 3 | DDL + DML | 15 | 1 | Kevin | 15% |
+| 4 | QUERY | 15 | 4 | Kevin, Ega, Riyadh, Yunus | 3.75% (masing-masing) |
+| 5 | LAPORAN | 20 | 1 | Yunus | 20% |
+| 6 | SLIDES | 10 | 2 | Yunus, Kevin | 5% (masing-masing) |
+| | **TOTAL** | **100** | | | **100%** |
 
-**Catatan:** Pastikan total persentase kontribusi semua anggota = 100%
+### Rincian Kontribusi Per Anggota:
 
-**Jika dikerjakan individu, isi seperti ini:**
-
-| Nama Anggota | Deskripsi Kontribusi | Persentase Kontribusi |
-|--------------|----------------------|----------------------|
-| [Nama Anda] | Perancangan EER Diagram, Mapping ke Relational Schema, Implementasi DDL & DML, Pembuatan Query SQL, Dokumentasi Lengkap (BAB 1-6) | 100% |
+| Nama Anggota | Kontribusi | Total Persentase |
+|--------------|------------|------------------|
+| **Mukgot** | EERD (Ketua/Koordinator) | 10% |
+| **Ega Sahputra** | EERD, Query | 13.75% |
+| **Riyadh** | Relationship Schema Mapping, Query | 23.75% |
+| **Kevin** | DDL + DML, Query, Slides | 23.75% |
+| **Yunus** | Query, Laporan, Slides | 28.75% |
+| | **TOTAL** | **100%** |
 
 ---
 
